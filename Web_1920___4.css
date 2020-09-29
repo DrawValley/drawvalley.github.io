@@ -1,0 +1,342 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 4;
+	--web-view-id: Web_1920___4;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-scale-on-double-click: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___4 {
+	position: absolute;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 4;
+	--web-view-id: Web_1920___4;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-scale-on-double-click: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_8 {
+	display: none;
+	width: 394px;
+	height: 1080px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,811.5,539.5) rotate(90deg);
+	transform-origin: center;
+}
+#Component_1___5 {
+	position: absolute;
+	width: 1074.34px;
+	height: 395px;
+	left: 423.16px;
+	top: 882.5px;
+	overflow: visible;
+}
+#Rectangle_10 {
+	filter: blur(9px);
+}
+.Rectangle_10 {
+	width: 395px;
+	height: 1074.34px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,339.67,-339.67) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_9 {
+	width: 385px;
+	height: 1054.34px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,344.6703,-324.6698) rotate(90deg);
+	transform-origin: center;
+}
+.Layer_2 {
+	filter: drop-shadow(5px -2px 4px rgba(0, 0, 0, 0.588));
+	width: 318px;
+	height: 318px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,434.8534,973.8454) rotate(135deg);
+	transform-origin: center;
+}
+.NoPath___Copia__5_ {
+	filter: drop-shadow(5px -2px 4px rgba(0, 0, 0, 0.588));
+	width: 527px;
+	height: 215px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,534,1064) rotate(90deg);
+	transform-origin: center;
+}
+.Pencil___2115x1597 {
+	filter: drop-shadow(5px -2px 4px rgba(0, 0, 0, 0.588));
+	width: 516px;
+	height: 390px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,432.0184,1035.9866) rotate(233deg);
+	transform-origin: center;
+}
+.Layer_1 {
+	filter: drop-shadow(5px -2px 4px rgba(0, 0, 0, 0.588));
+	width: 269px;
+	height: 377px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,811.3762,950.7145) rotate(147deg);
+	transform-origin: center;
+}
+.NoPath___Copia__14_ {
+	width: 131px;
+	height: 138px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1336.9035,916.1974) rotate(45deg);
+	transform-origin: center;
+}
+#Component_1___6 {
+	position: absolute;
+	width: 1082.34px;
+	height: 406px;
+	left: 1497.16px;
+	top: 88.5px;
+	overflow: visible;
+}
+#Rectangle_10_A2_Rectangle_14 {
+	filter: blur(9px);
+}
+.Rectangle_10_A2_Rectangle_14 {
+	width: 406px;
+	height: 1082.34px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,338.17,-338.17) rotate(90deg);
+	transform-origin: center;
+}
+.Rectangle_9_A2_Rectangle_15 {
+	width: 385px;
+	height: 1054.34px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,344.6703,-324.6698) rotate(90deg);
+	transform-origin: center;
+}
+.Ellipse_19 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1613px;
+	top: 173px;
+}
+.Ellipse_20 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1667px;
+	top: 173px;
+}
+.Ellipse_21 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1721px;
+	top: 173px;
+}
+.Ellipse_22 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1771px;
+	top: 173px;
+}
+.Ellipse_23 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1585px;
+	top: 218px;
+}
+.Ellipse_24 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1639px;
+	top: 218px;
+}
+.Ellipse_25 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1613px;
+	top: 263px;
+}
+.Ellipse_26 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1693px;
+	top: 218px;
+}
+.Ellipse_27 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1747px;
+	top: 218px;
+}
+.Ellipse_28 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1771px;
+	top: 263px;
+}
+.Ellipse_29 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1801px;
+	top: 218px;
+}
+.Ellipse_30 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1667px;
+	top: 263px;
+}
+.Ellipse_31 {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 1721px;
+	top: 263px;
+}
+.Ellipse_14 {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 1614px;
+	top: 360px;
+}
+.Ellipse_15 {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 1676px;
+	top: 365px;
+}
+.Ellipse_16 {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 1728px;
+	top: 370px;
+}
+.Ellipse_17 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 1770px;
+	top: 375px;
+}
+.Ellipse_18 {
+	position: absolute;
+	overflow: visible;
+	width: 12px;
+	height: 12px;
+	left: 1802px;
+	top: 379px;
+}
+.NoPath___Copia__25_ {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 136px;
+	left: 1115px;
+	top: 920px;
+}
+#Icon_ionic_ios_arrow_dropright {
+	position: absolute;
+	width: 29.25px;
+	height: 29.25px;
+	left: 1260.473px;
+	top: 973.542px;
+	overflow: visible;
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 10.525px;
+	height: 17.141px;
+	left: 11.039px;
+	top: 6.608px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 30.25px;
+	height: 30.25px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_ionic_ios_arrow_dropleft {
+	position: absolute;
+	width: 29.25px;
+	height: 29.25px;
+	left: 1064.016px;
+	top: 973.542px;
+	overflow: visible;
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 10.526px;
+	height: 17.141px;
+	left: 8.787px;
+	top: 6.608px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 30.25px;
+	height: 30.25px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

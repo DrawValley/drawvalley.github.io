@@ -1,0 +1,59 @@
+<html>
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<body onload="init()">
+    <div id="container" class="noselect">
+        
+
+            <canvas id="can" width="9500" height="6000"></canvas>
+            <div id="hidePanels" onclick="hidePanelsClick()" ></div>
+                
+<div class="div-principal" id="divColors"> 
+    <div id="divColors-internal">
+    <div class="divColors-internal-extrems" id="div-Colors-internal-extremTop">
+        <span class="spanColor" id="white" onclick="colorSelect(this)"></span>
+        <span class="spanColor" id="black" onclick="colorSelect(this)"></span>
+        <span class="spanColor" id="red" onclick="colorSelect(this)"></span> 
+        <span class="spanColor" id="blue" onclick="colorSelect(this)"></span></div>
+    <div class="divColors-internal-center">
+        <span class="spanColor" id="green" onclick="colorSelect(this)"></span>
+        <span class="spanColor" id="yellow" onclick="colorSelect(this)"></span>
+        <span class="spanColor" id="orange" onclick="colorSelect(this)"></span>
+        <span class="spanColor" id="porpora" onclick="colorSelect(this)"></span>
+        <span class="spanColor" id="lilla" onclick="colorSelect(this)"></span></div>
+    <div class="divColors-internal-extrems">
+        <span class="spanColor" id="light-blue-sky" onclick="colorSelect(this)"></span>
+        <span class="spanColor" id="light-blue-dark" onclick="colorSelect(this)"></span>
+        <span class="spanColor" id="pink" onclick="colorSelect(this)"></span>
+        <span class="spanColor" id="violet" onclick="colorSelect(this)"></span>
+    <!-- <input type="button" value="save" id="btn" size="30" onclick="save()" style="margin-left: 10;">
+    <input type="button" value="clear" id="clr" size="23" onclick="erase()" style="margin-left: 10;">  -->
+</div></div>
+<div id="divDimensions-internal">
+    <span class="span-lineDimension" id="y40" onclick="lineDimensionSelect(this)"></span>
+    <span class="span-lineDimension" id="y20" onclick="lineDimensionSelect(this)"></span>
+    <span class="span-lineDimension" id="y14" onclick="lineDimensionSelect(this)"></span>
+    <span class="span-lineDimension" id="y6" onclick="lineDimensionSelect(this)"></span>
+    <span class="span-lineDimension" id="y4" onclick="lineDimensionSelect(this)"></span>
+    <!-- <input type="button" value="save" id="btn" size="30" onclick="save()" style="margin-left: 10;">
+    <input type="button" value="clear" id="clr" size="23" onclick="erase()" style="margin-left: 10;"> -->
+</div></div>
+
+<div class="div-principal" id="divTools">
+    <div id="divTools-draw">
+        <img src="Layer_2_A2_Rectangle_5_pattern_cropped.png" id="stylographic" onclick="onToolSelected(this)" alt="" class="tool" style="margin-left:3.4vw;">
+        <img src="Pencil___2115x1597_A2_Rectangle_9_pattern_cropped.png" onclick="onToolSelected(this)" id="pencil" alt="" class="tool">
+        <img src="NoPath___Copia__5__A2_Rectangle_7_pattern_cropped.png" onclick="onToolSelected(this)" id="pen" alt="" class="tool">
+        <img src="Layer_1_A2_Rectangle_11_pattern_cropped.png" id="hightlighter" onclick="onToolSelected(this)" alt="" class="tool">
+    </div>
+</div>
+    
+    
+           <img id="canvasimg" style="position:absolute;top:10%;left:52%;" style="display:none;">
+           <!-- <canvas id="canvasprova"></canvas>
+           <div id="divOverlay">ciao</div>-->
+    
+        </div>
+</body>
+</html>
