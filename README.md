@@ -1,4 +1,4 @@
-# drawvalley.github.
+# DrawValley
 
 This is DrawValley.
 A free open source software made for drawing during lessons, with distance learning and in presence on Whiteboards.
