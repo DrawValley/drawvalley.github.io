@@ -9,6 +9,4 @@ The final goal is made this programme the best software for techers at school, f
 The licence is free, if you're inserting this programme or some parts of code in your project or site please show credits with DrawValley's GitHub Page.
 All the contributions are welcome.
 
-This is my first experience on GhitHub, i hope this project will have successs.
-
-PS I'm not english.
+This is my first experience on GitHub, i hope this project will have successs.
